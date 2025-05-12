@@ -77,6 +77,16 @@ Contact and hospital
 
 Appointment booking link
 
+
+## Output
+
+![image](https://github.com/user-attachments/assets/1e72f223-580c-4f55-b28c-b1b6e5737042)
+![image](https://github.com/user-attachments/assets/e69bf69a-2eb1-46f1-a214-c37d1ead64b7)
+![image](https://github.com/user-attachments/assets/fae0ff45-b244-4322-9014-5b80726cbabd)
+![image](https://github.com/user-attachments/assets/f0d6fe22-8e29-4358-8a72-e6fd6ae13a5c)
+![image](https://github.com/user-attachments/assets/b5c8c7f4-977f-457f-afe2-99455ad56fe2)
+
+
 ## ⚠️ Disclaimer
 This application is built for educational purposes only. The predictions made by the models are not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for medical guidance.
 
