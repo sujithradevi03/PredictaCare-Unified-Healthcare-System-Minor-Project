@@ -19,13 +19,6 @@ This project is a **Streamlit-based web application** that allows users to predi
 ## Prerequisites
 Python 3.7 or above
 
-## 📊 Models Used
-Diabetes: Trained on PIMA Indian dataset
-
-Heart Disease: Trained on UCI Heart Disease dataset
-
-Parkinson's: Trained on UCI Parkinson’s vocal dataset
-
 All models are saved in .sav format using pickle.
 
 ## 📌 Input Parameters
